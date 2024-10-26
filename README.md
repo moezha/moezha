@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moez</h1>
 <h3 align="center">A passionate R&D Engineer specializing in Blockchain and AI from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400"src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 🔭 I’m currently working with **ORANGE GROUP**
   
 - 🌱 I’m currently learning **DevOps and Cloud technologies**
