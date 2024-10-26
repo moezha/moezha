@@ -7,8 +7,10 @@
 - 🌱 I’m currently learning **DevOps and Cloud technologies**
   
 - 💬 Ask me about **DEV, Cloud, Linux, Blockchain, AI, and Cryptocurrency**
-
+    
 - 📫 How to reach me **moez.hachicha@enis.tn**
+  
+- 🔗 Or connect with me on [LinkedIn](https://www.linkedin.com/in/moezha/)
 
 - ⚡ Fun fact **I love exploring new technologies!**
 
