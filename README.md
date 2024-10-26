@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moez</h1>
-<h3 align="center">Software Engineer passionate about Blockchain and AI from Tunisia.</h3>
+<h3 align="center">
+  Software Engineer passionate about Blockchain and AI<br>
+  from Tunisia  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/24980/chilli-clipart-md.png" alt="red chili" style="width:20px; height: auto;"> <img src="https://3.bp.blogspot.com/-ZDIGFGl09h4/Wy9-_LIC_RI/AAAAAAAAoZw/SCSRj7B-Yuw-baQTfRA_wSxW6_A2S1FBACLcBGAs/s1600/Flag_of_Tunisia.gif" alt="Tunisian Flag" style="width:20px; height: auto;">
+</h3>
 <img align="right" alt="Coding" width="400"src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 🔭 I’m currently working with **ORANGE GROUP**
   
