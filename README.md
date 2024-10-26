@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moez</h1>
-<h3 align="center">A passionate R&D Engineer specializing in Blockchain and AI from Tunisia</h3>
+<h3 align="center">Software Engineer passionate about Blockchain and AI from Tunisia.</h3>
 <img align="right" alt="Coding" width="400"src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 🔭 I’m currently working with **ORANGE GROUP**
   
